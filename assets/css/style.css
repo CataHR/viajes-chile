@@ -1,0 +1,53 @@
+html{
+    scroll-behavior: smooth;  
+}
+
+body{
+    font-family: 'Mulish', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    
+    }
+.navbar-brand{
+    font-family:'Open Sans', sans-serif;
+    font-size: 250%;
+    padding: 10px;
+    }
+.navbar-nav li a{
+    color: white;  
+}
+
+.navbar-nav{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 150%;
+    padding: 20px;
+    
+}
+
+.vector{
+    width: 3rem;
+    margin-left: 30px;
+}
+.icono{
+    font-size: 30px;
+    margin-right: 30px;
+    
+}
+a{
+    color: white;
+  }
+
+.box{
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+.box1{
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+.box2{
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
